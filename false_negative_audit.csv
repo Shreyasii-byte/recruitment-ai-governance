@@ -1,0 +1,19 @@
+Intersection,Model,False Negative Rate,Applicants
+Female_Group_A,Baseline,0.046875,230
+Female_Group_A,Biased,0.65625,230
+Female_Group_A,Mitigated,0.5078125,230
+Female_Group_B,Baseline,0.0136986301369863,129
+Female_Group_B,Biased,0.6712328767123288,129
+Female_Group_B,Mitigated,0.3972602739726027,129
+Female_Group_C,Baseline,0.022727272727272728,78
+Female_Group_C,Biased,0.7727272727272727,78
+Female_Group_C,Mitigated,0.5227272727272727,78
+Male_Group_A,Baseline,0.018404907975460124,293
+Male_Group_A,Biased,0.2822085889570552,293
+Male_Group_A,Mitigated,0.43558282208588955,293
+Male_Group_B,Baseline,0.02727272727272727,175
+Male_Group_B,Biased,0.2727272727272727,175
+Male_Group_B,Mitigated,0.45454545454545453,175
+Male_Group_C,Baseline,0.0,95
+Male_Group_C,Biased,0.24,95
+Male_Group_C,Mitigated,0.34,95

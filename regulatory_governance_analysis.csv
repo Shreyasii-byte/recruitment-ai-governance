@@ -1,0 +1,6 @@
+Area,Framework,Governance Concern,Recommendation
+Bias Auditing,NYC Local Law 144,An audit does not itself guarantee remediation,Document corrective actions
+Transparency,NYC Local Law 144,Audit summaries may not explain individual outcomes,Provide understandable candidate information
+Accountability,NIST AI RMF,Responsibility may be divided between vendors and employers,Define ownership and escalation procedures
+Continuous Monitoring,NIST AI RMF,Periodic audits may miss emerging problems,Monitor outcomes after deployment
+Intersectional Fairness,Responsible AI practice,Small subgroup sizes can make estimates unstable,Report sample sizes and uncertainty
